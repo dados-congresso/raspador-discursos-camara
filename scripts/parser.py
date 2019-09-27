@@ -31,7 +31,7 @@ def partidoEstadoFala(linha):
     if resultado:
         resultado = resultado.groups()
     else:
-        print(linha)
+        #print(linha)
         regexSecondTry = "\(([^()]+)\)\s-\s(.*)"
         resultado = re.search(regexSecondTry, linha)
 
@@ -94,9 +94,13 @@ def main():
     nome_documento = "Câmara dos Deputados - Reunião de Comissão - CCJC - [09-04-2019 20h10min].txt"
     caminho = "../data/txt/" + nome_documento
     presidente_sessao = "Felipe Francischini"
+    print("============================")
+    print("Iniciando parser")
+    print("============================")
     sessao = arquivoParaString(caminho)
     parsed = parseSessao(sessao, presidente_sessao)
     escreveListaEmCSV(parsed, "../data/previdencia_ccjc_09-04-20h.csv", headers=["autor", "partido", "uf", "discurso"])
+    print("O parser foi realizado com sucesso!")
 
 if __name__ == "__main__":
     main()
