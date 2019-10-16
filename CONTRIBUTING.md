@@ -2,7 +2,7 @@
 
 Existem algumas maneiras de contribuir com este projeto. Você pode contribuir atualizando a documentação, sugerindo melhorias ou melhorando a base de códigos. 
 
-Alguns exemplos: adicionar testes a base de códigos atual, alterar o README para incluir algo novo que você acha necessario ou sugerir uma melhoria que não se encontra no aplicativo.
+Alguns exemplos: adicionar testes a base de códigos atual, alterar o [README](https://github.com/dados-congresso/raspador-discursos-camara/blob/master/README.md) para incluir algo novo que você acha necessário ou sugerir uma melhoria que não se encontra no aplicativo.
 
 ## Código de conduta
 
