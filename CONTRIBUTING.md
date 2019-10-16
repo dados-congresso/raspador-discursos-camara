@@ -14,7 +14,7 @@ O GitHub oferece uma ferramenta, dentre outras, para buscar confirmação de mud
 
 Se você encontrou algum bug ou quer adicionar uma nova funcionalidade, siga as seguintes instruções.
 
-Se depois de verificar a lista das issues (abertas e fechadas), tem certeza de que se trata de algo novo ou não reportado anteriormente, crie uma nova issue no GitHub. Lembre-se de adicionar o máximo de informações relevantes o possível para que pelo menos sejamos capazes de reproduzi-lo. 
+Se depois de verificar a lista das issues (abertas e fechadas), tem certeza de que se trata de algo novo ou não reportado anteriormente, crie uma nova issue no GitHub. Lembre-se de adicionar o máximo de informações relevantes o possível para que pelo menos sejamos capazes de reproduzí-lo. 
 
 Em se tratando de uma nova funcionalidade, adicione informações relevantes sobre uma feature que você gostaria que estivesse no aplicativo.
 
