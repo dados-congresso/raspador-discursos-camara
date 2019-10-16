@@ -40,4 +40,4 @@ data/
 
 #### Como contribuir?
 
-Caso você deseje contribuir com o nosso projeto, leia o [CONTRIBUTING.md]().
+Caso você deseje contribuir com o nosso projeto, leia o [CONTRIBUTING](CONTRIBUTING.md).
